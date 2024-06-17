@@ -1,5 +1,4 @@
-# importing libraries
-#testing cron jobs in 
+# importing librarie
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
 from nltk.tokenize import word_tokenize, sent_tokenize
